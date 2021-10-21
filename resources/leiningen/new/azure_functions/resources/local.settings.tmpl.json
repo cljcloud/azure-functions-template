@@ -1,0 +1,9 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "{azure-storage-conn-str}",
+    "FUNCTIONS_EXTENSION_VERSION": "~3",
+    "FUNCTIONS_WORKER_RUNTIME": "node",
+    "AZURE_FUNCTION_PROXY_BACKEND_URL_DECODE_SLASHES": "true"
+  }
+}
