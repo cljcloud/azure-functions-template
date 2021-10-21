@@ -2,18 +2,13 @@
 
 A Leiningen template for serverless ClojureScript app on Azure Functions.
 
+[![Clojars Project](https://img.shields.io/clojars/v/com.cljcloud/lein-template.azure-functions.svg)](https://clojars.org/com.cljcloud/lein-template.azure-functions)
+
 ## Usage
 
-Run:
-
-    # create a new project using template
     $ lein new com.cljcloud/azure-functions my-app
 
-    # go to app folders
-    $ cd my-app
-
-    # install deps
-    $ lein deps
+See an example project: https://github.com/cljcloud/api-azure-functions
 
 
 ## License
